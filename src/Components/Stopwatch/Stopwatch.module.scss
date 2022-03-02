@@ -1,0 +1,8 @@
+@import '../../styles/settings.scss';
+
+.stopwatch {
+    font-size: $base-size*8;
+    color: $color-light;
+    padding: $base-size*1.6;
+    margin-bottom: $base-size*1.6;
+  }

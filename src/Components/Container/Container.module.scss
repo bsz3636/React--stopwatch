@@ -1,0 +1,9 @@
+@import '../../styles/global.scss';
+@import '../../styles/settings.scss';
+
+.container {
+  max-width: 1200px; 
+  margin: $base-size*1.2 auto;
+  text-align: center;
+  padding-top: 15%;
+}
